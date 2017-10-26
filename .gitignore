@@ -1,0 +1,12 @@
+#ignora los bytecodes
+*.class
+
+#ignora copias de seguridad
+*~
+*.swp
+
+#ignora la documentacion
+*doc
+
+#ignoramos los ficheros de texto
+*.odt
